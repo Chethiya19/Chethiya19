@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chethiya Senadheera</h1>
-<h3 align="center">A Software Engineering Undergraduate at Cardiff Metropolitan University</h3>
+<h3 align="center">A Software Engineering Undergraduate student at Cardiff Metropolitan University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethiya19&label=Profile%20views&color=0e75b6&style=flat" alt="chethiya19" /> </p>
 
