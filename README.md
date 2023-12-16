@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chethiya19&label=Profile%20views&color=0e75b6&style=flat" alt="chethiya19" /> </p>
 
+- 🤝 I’m an Undergraduate at **ICBT Campus**
+
+- 🌱 I’m currently learning **Java**
+
 - 📫 How to reach me **chethiyanimesha19@gmail.com**
 
 - ⚡ Fun fact **Call me as Chethi**
