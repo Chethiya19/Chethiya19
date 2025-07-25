@@ -28,7 +28,7 @@
   </a>
 </p>
 
----
+<hr style="border: 0; height: 1px; background-color: #ccc; margin: 20px 0;" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
